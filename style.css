@@ -27,4 +27,39 @@ input
     border-radius: 8px;
     border-style: none;
 }
+#output
+{
+    background: rgba(173, 216, 230, 0.521);
+    border-radius: 8px;
+    border-top: 10px solid rgb(20, 199, 215);
+    padding : 10px;
+    float: none;
+    text-align: left;
+    margin-top: 150px;
+}
+#span_ans
+{
+    color: aquamarine;
+    font-size: large;
 
+}
+#player1_name
+{
+    text-align: left;
+    color: rgb(208, 230, 249);
+}
+#player2_name
+{
+    text-align: left;
+    color: rgb(208, 230, 249);
+}
+#no
+{
+    
+    color: azure;
+    font-size: medium;
+}
+div
+{
+    margin-top: 100px;
+}
