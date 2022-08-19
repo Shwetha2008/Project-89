@@ -43,12 +43,12 @@ input
     font-size: large;
 
 }
-#player1_name
+#player_1_name
 {
     text-align: left;
     color: rgb(208, 230, 249);
 }
-#player2_name
+#player_2_name
 {
     text-align: left;
     color: rgb(208, 230, 249);
